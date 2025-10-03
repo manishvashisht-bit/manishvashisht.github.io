@@ -1,1 +1,4 @@
-
+touch .nojekyll
+git add .nojeykyll
+git commit -m "disable"
+git push
