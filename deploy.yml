@@ -1,0 +1,7 @@
+yaml
+
+jobs:
+  test:
+    steps:
+      - name: manish.vashisht@straive.com
+        run: echo "Hello, world!"
